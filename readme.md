@@ -1,6 +1,9 @@
 # pyob
 A simple python obfuscator
+
 一个简单的python混淆器
+
+github: https://github.com/TES286/pyob/
 
 ## 使用
 
