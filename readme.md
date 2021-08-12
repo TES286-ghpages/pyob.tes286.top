@@ -9,7 +9,7 @@ github: https://github.com/TES286/pyob/
 
 首先,下载链接里的pyob.py
 
-> [直接链接](https://github.com/TES286/pyob/raw/pyob.py) [备用链接](https://proxy.0123456789.workers.dev/https://github.com/TES286/pyob/raw/pyob.py)
+> [直接链接](https://github.com/TES286/pyob/raw/master/pyob.py) [备用链接](https://proxy.0123456789.workers.dev/https://github.com/TES286/pyob/raw/master/pyob.py)
 
 使用命令行运行
 
