@@ -27,4 +27,4 @@ github: https://github.com/TES286/pyob/
 
 ## 捐赠
 
-[这里](https://pyob.tes286.top/donate.htm)
+[这里](https://dlproxy.tes286.top/Donate.html)
